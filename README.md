@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**e1gila/e1gila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 1. Personal data 
+#
+ - My name is Grishchenko Ilia Sergeevich. 18.11.2003 day of birth
+ - Place of birth is Bryansk, Bryansk region
+ - Place of accomodation is UTS Zlynka
+ - Marital status- not married
+ - There are no children
+#
+### 2. Education
 
-Here are some ideas to get you started:
+ - Secondary vocational education
+ - Ensuring information security of automated systems
+ - basic general education MBOU SOSH № 1
+#
+### Extracurricular hobbies
+#
+ - 5 years of participation in the regional championship "Southwest" in volleyball
+ - active sport lifestyle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
