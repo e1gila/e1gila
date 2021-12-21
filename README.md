@@ -18,4 +18,11 @@
 #
  - 5 years of participation in the regional championship "Southwest" in volleyball
  - active sport lifestyle
-
+#
+### Personal qualities
+ - purposeful
+ - responsible
+ - psychologically and morally balanced behavior
+ - desire to learn new things
+ - well "joining" the team
+ - I finish everything to the end 
