@@ -32,3 +32,6 @@
  - desire to learn new things
  - well "joining" the team
  - I finish everything to the end 
+#
+### My finished works: 
+- 
