@@ -24,6 +24,8 @@
 #
  - 5 years of participation in the regional championship "Southwest" in volleyball 🏐
  - active sport lifestyle 🥇
+ ![image](https://user-images.githubusercontent.com/94737402/147556003-5fe4ddd9-f4d1-4779-8907-038e8d76a824.png)
+
 #
 ### Personal qualities
  - purposeful
@@ -34,4 +36,4 @@
  - I finish everything to the end 
 #
 ### My finished works: 
-- 
+- https://github.com/e1gila/Proga228
